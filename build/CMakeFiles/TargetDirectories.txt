@@ -1,0 +1,3 @@
+C:/Users/ADEEL/projects/Cornifer-The-Finder/build/CMakeFiles/cornifer.dir
+C:/Users/ADEEL/projects/Cornifer-The-Finder/build/CMakeFiles/edit_cache.dir
+C:/Users/ADEEL/projects/Cornifer-The-Finder/build/CMakeFiles/rebuild_cache.dir
